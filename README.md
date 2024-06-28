@@ -38,7 +38,7 @@ En esta carpeta tendrás que cambiar los nombres de los archivos segun sea el or
 La nomenclatura (nombre) de los archivos deben ser imagen+ números de dos dígitos, (01-02-03…-10-11-12) .formato a elección
 - Ejemplo: imagen06.jpg
 
-![img1](contenidoreadme/imagenexplicacion.jpg)
+![img1](contenidoreadme/imgexplicacion.jpg)
 
 ![img1](contenidoreadme/img6.jpg)
 
